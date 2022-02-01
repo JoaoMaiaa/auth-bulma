@@ -1,0 +1,5 @@
+.img{
+    height:105vh;
+    background-image: linear-gradient(rgba(0,0,0, .5), rgba(0,0,0, .8)), url('../image/building-g94a75a108_1920.jpg');
+    background-size:cover;
+}
